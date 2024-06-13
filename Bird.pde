@@ -1,4 +1,3 @@
-class Bird{
 PImage backgroundImage;  // Declare a variable for the background image
 float bgX = 0;           // Initial X position of the background
 
@@ -21,5 +20,4 @@ void draw() {
   if (bgX <= -backgroundImage.width + width) {
     bgX = 0;  // Reset the background position to repeat the scrolling
   }
-}
 }
