@@ -86,7 +86,8 @@ void spawnBird() {
 
 
 void draw() {
-    background(255);  // Clear the background to white
+    background(255, 204, 153);  // Clear the background to yellow tint
+    //https://www.w3schools.com/colors/colors_picker.asp
     fill(0);  // Set fill color to black
     rect(0, 780, 1200, 20);  // Draw a black rectangle
     for (int i = 0; i < numGroundPieces; i++) {
