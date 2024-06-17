@@ -1,4 +1,4 @@
 # Chrome_Dino
-DIRECTORY NEEDS TO BE THE EXACT SAME.
+Your vs code EXPLORER tab needs to show this exact directory layout for this program to work
 
-Ctrl + Shift + B to run code on Processing.exe
+Ctrl + Shift + B to run code on VS CODE
